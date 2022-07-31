@@ -1,0 +1,8 @@
+1. Double click the "install" file and wait till the terminal window opens then closes.
+2. Put the PDF files you want to rename into the "put-pdf-files-here" folder.
+3. Double click the "run" file, then wait till the terminal stops showing new messages. Click Enter to close it.
+
+The renamed PDF files are now in the "results" folder.
+
+DO NOT delete the folders, even after finishing.
+When starting a new batch, delete all the old PDF files from inside "put-pdf-files-here" and "results" if you had some in there from before.
